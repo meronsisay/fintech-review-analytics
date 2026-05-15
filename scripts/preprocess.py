@@ -41,8 +41,6 @@ def clean_reviews(df):
     print(f"   4. Normalized dates to YYYY-MM-DD")
     
     # 5. Select only required columns
-    df = df[['review', 'rating', 'date', 'bank', 'source']]
-    print(f"   5. Selected required columns")
     
     print(f"\n Preprocessing complete: {len(df)} clean reviews")
     print(f"   Retention rate: {len(df)/before*100:.1f}%")
