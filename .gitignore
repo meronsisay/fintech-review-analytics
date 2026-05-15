@@ -21,7 +21,7 @@ data/
 
 # Jupyter Notebook
 .ipynb_checkpoints/
-*.ipynb
+# *.ipynb
 
 # VS Code
 .vscode/
