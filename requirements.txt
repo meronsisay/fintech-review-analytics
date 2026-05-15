@@ -4,3 +4,9 @@ pandas
 seaborn
 ipykernel
 google-play-scraper
+transformers
+torch
+textblob
+vaderSentiment
+scikit-learn
+nltk
